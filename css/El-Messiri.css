@@ -1,0 +1,39 @@
+/* arabic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/K2F0fZBRmr9vQ1pHEey6MoiAAhLz.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
+}
+
+/* arabic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/K2F3fZBRmr9vQ1pHEey6On6jFyjSYFOM.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
+}
+
+/* arabic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/K2F3fZBRmr9vQ1pHEey6OlKkFyjSYFOM.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
+}
+
+/* arabic */
+@font-face {
+  font-family: 'El Messiri';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/K2F3fZBRmr9vQ1pHEey6OjalFyjSYFOM.woff2) format('woff2');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE80-FEFC;
+}
